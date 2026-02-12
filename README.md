@@ -32,7 +32,7 @@ PYTHONPATH=. python toy/plot_ranks.py --out-dirs toy_model_checkpoints/dhead_16 
 
 To run PCA (Figure 3):
 ```
-PYTHONPATH=. python toy/plot_3d_pca.py --run-dir toy_model_checkpoints/dhead_16/N3_M5_dh16_seed11 --connect_key_menas_hypercube --save-path [save path]
+PYTHONPATH=. python toy/plot_3d_pca.py --run-dir toy_model_checkpoints/dhead_16/N3_M5_dh16_seed11 --connect_key_means_hypercube --save-path [save path]
 ```
 
 To run causal interventions (Figure 4):
