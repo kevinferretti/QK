@@ -1,0 +1,10 @@
+torch
+transformers
+fancy-einsum
+einops
+python-box
+matplotlib
+pandas
+plotly
+scikit-learn
+kaleido
